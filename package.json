@@ -24,6 +24,6 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "react-native": "0.61.5"
+    "react-native": "0.66.1"
   }
 }
